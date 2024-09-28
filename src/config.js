@@ -14,10 +14,10 @@ module.exports = {
     //   name: 'Twitter',
     //   url: 'https://twitter.com/bchiang7',
     // },
-    {
-      name: 'Linkedin',
-      url: 'https://www.linkedin.com/in/nakshatra-uday-87a44a18b/',
-    },
+    // {
+    //   name: 'Linkedin',
+    //   url: 'https://www.linkedin.com/in/nakshatra-uday-87a44a18b/',
+    // },
     // {
     //   name: 'Codepen',
     //   url: 'https://codepen.io/bchiang7',

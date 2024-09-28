@@ -81,11 +81,7 @@ const Hero = () => {
     </>
   );
   const five = (
-    <a
-      className="email-link"
-      href="https://www.linkedin.com/in/nakshatra-uday-87a44a18b/"
-      target="_blank"
-      rel="noreferrer">
+    <a className="email-link" href="/#about" target="_blank" rel="noreferrer">
       More About Me!
     </a>
   );
