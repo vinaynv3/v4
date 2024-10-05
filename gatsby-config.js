@@ -141,7 +141,7 @@ module.exports = {
               // Values below are default
               prompt: {
                 user: 'root',
-                host: 'localhost',
+                host: '0.0.0.0',
                 global: false,
               },
             },
